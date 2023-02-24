@@ -124,6 +124,15 @@ p {
   max-height: 200px;
 }
 
+.projectlinks {
+  color: var(--branding-color);
+  text-decoration: none;
+}
+
+.projectlinks:hover {
+  color: #553f6f;
+}
+
 nav {
   padding: 20px 0;
 }
